@@ -1,1 +1,3 @@
-# AI_practice
+# ML_practice
+
+Codes for ML practice
